@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://www.shubhamtade.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-tade)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shubhamtade)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader)](https://www.shubhamtade.vercel.app/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader)](https://shubhamtade.vercel.app/assets/resume-C5JiaIWB.pdf)
 
 ---
 
