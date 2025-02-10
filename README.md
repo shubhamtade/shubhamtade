@@ -1,6 +1,6 @@
 ## Hi there, I'm Shubham Tade! 👋
 
-![Shubham's Banner](https://source.unsplash.com/1600x500/?technology,coding,developer) <!-- Replace with your custom banner -->
+![Shubham's Banner](https://media.licdn.com/dms/image/v2/D5616AQHRZ6Svl98rjQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721740547808?e=1744848000&v=beta&t=iAi5tW-CU_9b8kiU667f-y51bLzA5bM6wZiTDhgizn0) <!-- Replace with your custom banner -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://www.shubhamtade.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-tade)
@@ -60,7 +60,8 @@
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamtade&theme=radical)](https://github.com/shubhamtade)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamtade.visitor-badge)](https://github.com/shubhamtade)
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamtade&color=blue&style=flat-square)
+
 
 ---
 
